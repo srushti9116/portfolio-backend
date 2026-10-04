@@ -1,0 +1,29 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE - IntelliJ / VS Code
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Spring configuration / secrets
+src/main/resources/application.properties
+
+# Uploaded files
+uploads/
+
+# Trial / test files
+test-image.png
+
+# OS
+.DS_Store
+Thumbs.db
